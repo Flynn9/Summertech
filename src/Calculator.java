@@ -25,6 +25,7 @@ public class Calculator {
 		}
 		else {
 			System.out.println("You entered in an invalid operation, please restart!");
+		System.out.println("do you want to continue? type y or n to confirm");
 		}
 		}
 		// TODO Auto-generated method stub
